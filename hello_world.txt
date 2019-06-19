@@ -1,0 +1,1 @@
+Converted from Dual Boot To Single Boot Ubuntu 18.04.2 by removing Windows 10 from Lenovo Laptop.
